@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb212cGs5NjA2MGNwOTkzYXF0aW81NHo0aHo1NDNndHhkNzloaXRrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif">
 
 - 🌱 I’m currently learning **Flutter, AI, and Clean Code Practices**
 - 💻 Actively working on academic & personal projects
@@ -59,5 +59,10 @@
 
 ---
 
-> "Building things with passion, learning every single day."
+</div>
 
+<div align="center">
+
+"Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="footer gif"/>
+</div>

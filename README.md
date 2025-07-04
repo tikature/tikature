@@ -9,15 +9,6 @@
 
 ---
 
-## 🎮 Wanna play a sweet game?
-
-I'm testing out a little text-based mini game using GitHub Issues and Actions! 🍩🍰🍬
-
-> 🕹️ Try typing `donut`, `cake`, or `candy` in a new issue and get a surprise!
-
-[![Play the Sweet Game](https://img.shields.io/badge/Play-Sweet_Game-FC73C2?style=for-the-badge&logo=cakephp)](https://github.com/tikature/sweet-game-bot/issues/new)
----
-
 <img align="right" alt="Coding" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb212cGs5NjA2MGNwOTkzYXF0aW81NHo0aHo1NDNndHhkNzloaXRrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif">
 
 - 🌱 I’m currently learning **Flutter, AI, and Clean Code Practices**

@@ -1,6 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Dewi Atika Muthi!</h1>
 <h3 align="center">A passionate Software Engineering student from Indonesia 🇮🇩</h3>
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1yZG15aXNuOG5pZDN4NXd3OXczYzN6dmh3a2tkMnl4cTRobWIxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/15HB4ZjNybC4tj60dC/giphy.gif" width="50"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BvcWFoYm05c2lzNTBkNGticTZ1dnF4M2s1bXJqMndxc3E5aG1qayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NOy1lNkODYIYPFnYXj/giphy.gif" width="50"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjlha2cyamVhY3F0ejh5cWw0ajJ6eHYyeHd3MHlpNzd0bjAzcjBpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZRWWl5XqL89HcjFeqp/giphy.gif" width="50"/>
+</p>
+
+---
+
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 - 🌱 I’m currently learning **Flutter, AI, and Clean Code Practices**

@@ -10,33 +10,46 @@
 
 ---
 
-### 🛠️ Tech Stack:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dewiatika&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dewiatika&theme=tokyonight" width="400"/>
+  <img src="https://komarev.com/ghpvc/?username=tikature&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="profile-views"/>
+  <img src="https://img.shields.io/github/stars/tikature?style=flat&color=cc3366&label=STARS" alt="stars"/>
+  <img src="https://img.shields.io/github/followers/tikature?style=flat&color=0e75b6&label=FOLLOWERS" alt="followers"/>
 </p>
 
 ---
 
-### 🤝 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/dewiatika" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dewiatika@example.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/dewiatika"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+### 🔥 GitHub Stats & Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tikature&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tikature&layout=compact&theme=tokyonight&hide_border=true" width="36%"/>
 </p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### 🧠 Languages & Tools I Have Placed My Hands On
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,dart,flutter,js,html,css,figma,git,github,vscode,androidstudio,postman,linux,bash" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,c,cpp,cs,bootstrap,tailwind" />
+</p>
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/tikature" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tikature@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/tikature">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> "Building things with passion, learning every single day."
 

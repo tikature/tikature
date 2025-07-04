@@ -9,7 +9,11 @@
 
 ---
 
-<img align="right" alt="Coding" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb212cGs5NjA2MGNwOTkzYXF0aW81NHo0aHo1NDNndHhkNzloaXRrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb212cGs5NjA2MGNwOTkzYXF0aW81NHo0aHo1NDNndHhkNzloaXRrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif">
+<img align="left" alt="Coding" width="200"
+     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQ1cHIxeWRrYjk2b2cydzl2aHdpZHZmdXAwaHpzYmpuYWV1Mm1xMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3DwT4LH6dbRG8/giphy.gif"
+     style="transform: scaleX(-1);">
+
 
 - 🌱 I’m currently learning **Flutter, AI, and Clean Code Practices**
 - 💻 Actively working on academic & personal projects
@@ -56,6 +60,14 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31kp6gqj2tdtpss77eo6zqjeonoq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kp6gqj2tdtpss77eo6zqjeonoq&count=3" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ---
 

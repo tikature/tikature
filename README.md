@@ -1,4 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Dewi Atika Muthi!</h1>
+<h1 align="center">Hi there <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRxcnptZ3R6cmFyMzV2cWZ0anN0d3ZhdWluOWkzdjhxcGNvZnR4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pZSaJSS4aDQ9bHEyBr/giphy.gif" width="35" style="vertical-align:middle" alt="wave gif">, I'm Dewi Atika Muthi!
+</h1>
 <h3 align="center">A passionate Software Engineering student from Indonesia 🇮🇩</h3>
 
 <p align="center">

@@ -65,11 +65,12 @@
 
 ---
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31kp6gqj2tdtpss77eo6zqjeonoq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kp6gqj2tdtpss77eo6zqjeonoq&count=3" alt="Spotify recently played"  />
+<h2 align="center">Vibin' on Spotify</h2>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31n4mms4k47ttb7a2fpu2jliyzlm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31kp6gqj2tdtpss77eo6zqjeonoq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=b14e71&bar_color_cover=true" alt="Spotify Now Playing" width="400"/>
   </a>
-</div>
+</p>
 
 ---
 

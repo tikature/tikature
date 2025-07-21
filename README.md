@@ -39,23 +39,26 @@
 </p>
 
 ---
-
-### 🧠 Languages & Tools I Have Placed My Hands On
+## 🧠 Languages & Tools I Have Placed My Hands On
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,dart,flutter,js,html,css,figma,git,github,vscode,androidstudio,postman,linux,bash" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,c,cpp,cs,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,dart,js,html,css,c,cpp,cs" />
+  <img src="https://skillicons.dev/icons?i=flutter,flask,nodejs,laravel,bootstrap,tailwind,vite,vue,react" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,bash,androidstudio,vscode,visualstudio,idea" />
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,xd" />
 </p>
+
 
 ---
 
 ### 📬 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/tikature" target="_blank">
+  <a href="https://linkedin.com/in/dewi-atika-muthi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tikature@example.com">
+  <a href="mailto:detikaa10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/tikature">

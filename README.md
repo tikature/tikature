@@ -45,7 +45,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,php,dart,js,html,css,c,cpp,cs" />
   <img src="https://skillicons.dev/icons?i=flutter,flask,nodejs,laravel,bootstrap,tailwind,vite,vue,react" />
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,bash,androidstudio,vscode,visualstudio,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,bash,androidstudio,vscode,visualstudio,idea" />
   <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,xd" />
 </p>
 

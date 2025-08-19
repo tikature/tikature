@@ -42,9 +42,9 @@
 ## 🧠 Languages & Tools I Have Placed My Hands On
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,php,dart,js,html,css,c,cpp,cs" />
-  <img src="https://skillicons.dev/icons?i=flutter,nodejs,laravel,bootstrap,tailwind,vite,vue,react" />
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=html,java,python,php,dart,js,golang,css,c,cpp,cs" />
+  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,vite,vue,flutter,nodejs,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres" />
   <img src="https://skillicons.dev/icons?i=git,github,postman,docker,bash,androidstudio,vscode,visualstudio,idea" />
   <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,xd" />
 </p>

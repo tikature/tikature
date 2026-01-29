@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb212cGs5NjA2MGNwOTkzYXF0aW81NHo0aHo1NDNndHhkNzloaXRrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif">
+<img align="right" alt="Coding" width="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb212cGs5NjA2MGNwOTkzYXF0aW81NHo0aHo1NDNndHhkNzloaXRrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif">
 
 
 - Focused on Software Engineering fundamentals
